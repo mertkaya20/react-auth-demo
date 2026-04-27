@@ -133,8 +133,8 @@ Logout clears the token from `localStorage`, sets React state to `null` (which i
 
 ```bash
 # Clone the repository
-git clone https://github.com/mertkaya20/authentication-authorization-demo.git
-cd authentication-authorization-demo
+git clone https://github.com/mertkaya20/react-auth-demo.git
+cd react-auth-demo
 
 # Install dependencies
 npm install
@@ -297,8 +297,8 @@ function handleLogout() {
 
 ```bash
 # Repoyu klonla
-git clone https://github.com/mertkaya20/authentication-authorization-demo.git
-cd authentication-authorization-demo
+git clone https://github.com/mertkaya20/react-auth-demo.git
+cd react-auth-demo
 
 # Bağımlılıkları yükle
 npm install
